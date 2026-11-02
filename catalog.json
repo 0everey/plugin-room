@@ -1,0 +1,14 @@
+{
+  "schema": "resource-room.catalog.v1",
+  "repository": "0everey/plugin-room",
+  "category": {
+    "id": "plugins",
+    "name": "插件"
+  },
+  "futureTarget": {
+    "comparison": ">",
+    "threshold": 5,
+    "minimumCount": 6
+  },
+  "items": []
+}
